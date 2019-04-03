@@ -1,12 +1,1 @@
-asdadasdads
-asdadasdads
-egyketto
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-sasdasd
-=======
-asdasdad123123
->>>>>>> Stashed changes
-=======
-asdasdad
->>>>>>> Stashed changes
+asd

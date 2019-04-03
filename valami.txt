@@ -5,7 +5,7 @@ egyketto
 <<<<<<< Updated upstream
 sasdasd
 =======
-asdasdad123123
+asdasdad123123asd
 >>>>>>> Stashed changes
 =======
 asdasdad

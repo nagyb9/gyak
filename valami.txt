@@ -3,11 +3,7 @@ asdadasdads
 egyketto
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 sasdasd
-=======
-asdasdad
->>>>>>> Stashed changes
 =======
 asdasdad
 >>>>>>> Stashed changes
